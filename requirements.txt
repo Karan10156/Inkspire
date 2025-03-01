@@ -4,4 +4,6 @@ Flask-Login
 Flask-WTF
 WTForms
 email-validator
-Werkzeug
+gunicorn
+werkzeug
+gunicorn
